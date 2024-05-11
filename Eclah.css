@@ -15,7 +15,7 @@ nav {
     align-items: center;
     max-width: 1100px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 0px;
 }
 
 .logo {
@@ -28,7 +28,7 @@ nav {
 
 .nav-links li {
     display: inline-block;
-    margin-right: 20px;
+    margin-right: 0px;
 }
 
 .nav-links li a {
