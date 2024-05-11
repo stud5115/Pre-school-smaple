@@ -1,12 +1,17 @@
 /* Reset and Global Styles */
 /* Add your reset and global styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
 
 /* Header Styles */
 /* Add your header styles here */
 header {
     background-color: #FFFF00;
     color: #0077B3;
-    padding: 0px 0;
+    padding: 20px 0;
 }
 
 nav {
@@ -28,7 +33,7 @@ nav {
 
 .nav-links li {
     display: inline-block;
-    margin-right: 0px;
+    margin-right: 20px;
 }
 
 .nav-links li a {
